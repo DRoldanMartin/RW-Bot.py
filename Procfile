@@ -1,0 +1,1 @@
+worker: python RW-Bot.py
